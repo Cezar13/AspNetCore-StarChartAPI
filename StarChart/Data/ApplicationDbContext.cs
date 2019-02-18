@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
 using StarChart.Models;
 
 namespace StarChart.Data
